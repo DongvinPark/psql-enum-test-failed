@@ -69,7 +69,7 @@ public class EnrollmentCycleTransmission {
     public TransmissionStatusType getTransmissionStatus() {
         return this.transmissionStatus ;
     }
-    
+
     public void setTransmissionStatus(TransmissionStatusType transmissionStatus) {
         this.transmissionStatus = transmissionStatus;
     }
